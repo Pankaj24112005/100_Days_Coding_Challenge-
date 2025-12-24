@@ -39,7 +39,7 @@ print("Number 7 is:", is_even(7))
 square = lambda x: x * x
 print("Square of 6:", square(6))
 
-# --------------------------------------------------
+# ---------------------------------------------------
 # 6. Lambda function (multiple arguments)
 sum_lambda = lambda a, b: a + b
 print("Lambda Sum:", sum_lambda(15, 25))
