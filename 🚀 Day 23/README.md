@@ -21,7 +21,7 @@ Pillow (PIL) – Image handling
 📦 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/google-pay-upi-qr.git
+git clone https://github.com/Pankaj24112005/100_Days_Coding_Challenge-/tree/main/%F0%9F%9A%80%20Day%2023
 
 
 Install required libraries:
@@ -81,4 +81,5 @@ Add business logo to QR
 
 Pankaj Jadhav
 Third-year AIML student
+
 Python | GUI | UPI QR Projects
