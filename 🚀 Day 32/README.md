@@ -43,7 +43,12 @@ These operations are fundamental in **Data Science, Machine Learning, and AI pro
 import pandas as pd
 df = pd.read_csv("data.csv")
 df.head()
-
+```
 ### Convert CSV to Excel
 ```python
 df.to_excel("data.xlsx", index=False)
+```
+## Read JSON File
+```python
+df_json = pd.read_json("data.json")
+```
