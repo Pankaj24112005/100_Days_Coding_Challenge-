@@ -13,7 +13,7 @@ In **Day 34** of my **100DaysOfCode** journey, I focused on understanding *why m
   - `sum()`
 - Types of missing data:
   - MCAR (Missing Completely At Random)
-  - MAR (Missing At Random)
+  -. MAR (Missing At Random)
   - MNAR (Missing Not At Random)
 
 ---
