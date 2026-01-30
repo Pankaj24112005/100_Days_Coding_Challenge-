@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚀 Day 42 – Line, Bar & Scatter Plots 📊🐍
 
 This project is part of my **100 Days of Code – Python & Data Science** journey.  
