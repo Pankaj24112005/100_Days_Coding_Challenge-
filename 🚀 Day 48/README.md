@@ -1,7 +1,7 @@
-/* =========================================
+/* ===
    Day 48 – SQL : SELECT, WHERE, ORDER BY
    100 Days Coding Challenge
-========================================= */
+=== */
 
 /* Table Structure */
 CREATE TABLE students (
