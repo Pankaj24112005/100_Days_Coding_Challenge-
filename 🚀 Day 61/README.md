@@ -1,8 +1,8 @@
-# 📊 Day 66 – Mean, Median & Mode  
+# 📊 Day 61 – Mean, Median & Mode  
 ### 100 Days Coding Challenge 🚀  
 
 ## 📌 Overview  
-On Day 66, I explored Measures of Central Tendency — one of the most fundamental concepts in Statistics and Data Science.
+On Day 61, I explored Measures of Central Tendency — one of the most fundamental concepts in Statistics and Data Science.
 
 Understanding Mean, Median, and Mode is essential before moving into Machine Learning because these measures help summarize data and understand its distribution.
 
