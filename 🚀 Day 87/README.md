@@ -1,13 +1,13 @@
-# 📊 Customer Personality Analysis (EDA Project)
+# Customer Personality Analysis (EDA Project)
 
-## 🚀 Project Overview
+## Project Overview
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a real-world marketing dataset to understand customer behavior, spending patterns, and key business insights.
 
 The goal is to extract meaningful information that can help businesses make **data-driven marketing decisions**.
 
 ---
 
-## 📁 Dataset
+## Dataset
 - Source: Kaggle  
 - Dataset Name: **Customer Personality Analysis**  
 - Format: CSV (Tab-separated)
