@@ -1,4 +1,4 @@
-# Heart Disease Prediction (Classification Project)
+# Heart Disease Prediction (Classification Project).
 
 **Day 89 – #100DaysOfCode**
 
