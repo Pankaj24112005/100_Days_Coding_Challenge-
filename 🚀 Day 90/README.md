@@ -10,7 +10,7 @@ It demonstrates a **complete ML workflow** including data preprocessing, model t
 ##  Features
 
 * Real dataset (`heart.csv`)
-* Data preprocessing
+* Data preprocessing,
 * Machine Learning model (Logistic Regression)
 * Pipeline (StandardScaler + Model) ⭐
 * Model saving using Pickle & Joblib
