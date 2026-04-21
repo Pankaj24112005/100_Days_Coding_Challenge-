@@ -7,7 +7,7 @@ It demonstrates a **complete ML workflow** including data preprocessing, model t
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Real dataset (`heart.csv`)
 * Data preprocessing
