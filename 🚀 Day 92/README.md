@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System
+# ❤️ Heart Disease Prediction System.
 
 A Machine Learning project that predicts the possibility of heart disease using patient medical data.
 
