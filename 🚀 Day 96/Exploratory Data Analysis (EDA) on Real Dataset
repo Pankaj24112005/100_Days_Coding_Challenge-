@@ -1,0 +1,188 @@
+# 📊 Customer Shopping Behavior Analysis using SQL, Python & Power BI
+
+## 🚀 Project Overview
+This project focuses on analyzing customer shopping behavior data using **SQL, Python, and Power BI** to uncover business insights, customer trends, and sales patterns.
+
+The project demonstrates:
+- Data Cleaning & Analysis
+- SQL Business Queries
+- Interactive Power BI Dashboard
+- Customer Trend Visualization
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Data Analysis |
+| SQL | Business Queries |
+| Power BI | Dashboard Visualization |
+| Pandas | Data Processing |
+| Matplotlib | Visualization |
+
+---
+
+# 📂 Project Files
+
+```bash
+📁 Customer-Shopping-Behavior-Analysis
+│
+├── 📄 Business Problem Document.pdf
+├── 📄 Customer Shopping Behavior Analysis.pdf
+├── 📓 customer_behavior.ipynb
+├── 📊 Customer_Behavior_Dashboard.pbix
+├── 🗄️ customer_behavior_queries.sql
+├── 📈 customer_shopping_behavior.xlsx
+├── 📓 Customer_Shopping_Behavior_Analysis.ipynb
+└── 📑 Customer-Shopping-Behavior-Analysis.pptx
+```
+
+---
+
+# 📁 Dataset Features
+
+The dataset contains:
+- Customer ID
+- Gender
+- Age
+- Product Category
+- Purchase Amount
+- Payment Method
+- Shopping Frequency
+- Location Information
+
+---
+
+# ⚙️ Installation & Setup
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+```
+
+## 2️⃣ Navigate to Project Folder
+
+```bash
+cd customer-shopping-behavior-analysis
+```
+
+## 3️⃣ Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+## 4️⃣ Activate Environment
+
+### Windows
+```bash
+venv\Scripts\activate
+```
+
+### Linux / Mac
+```bash
+source venv/bin/activate
+```
+
+## 5️⃣ Install Required Libraries
+
+```bash
+pip install pandas matplotlib numpy openpyxl
+```
+
+---
+
+# ▶️ Run Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+```bash
+Customer_Shopping_Behavior_Analysis.ipynb
+```
+
+---
+
+# 🧠 SQL Queries Used
+
+## 🔹 Top Selling Categories
+
+```sql
+SELECT category,
+       SUM(purchase_amount) AS total_sales
+FROM customer_data
+GROUP BY category
+ORDER BY total_sales DESC;
+```
+
+## 🔹 Average Spending by Gender
+
+```sql
+SELECT gender,
+       AVG(purchase_amount) AS avg_spending
+FROM customer_data
+GROUP BY gender;
+```
+
+## 🔹 Most Preferred Payment Method
+
+```sql
+SELECT payment_method,
+       COUNT(*) AS total_users
+FROM customer_data
+GROUP BY payment_method
+ORDER BY total_users DESC;
+```
+
+---
+
+# 📊 Power BI Dashboard Features
+
+✅ Customer Segmentation  
+✅ Revenue Analysis  
+✅ Product Performance  
+✅ Monthly Sales Trends  
+✅ Shopping Pattern Insights  
+
+---
+
+# 📈 Key Insights
+
+- Identified top-performing product categories
+- Analyzed customer purchase behavior
+- Compared spending trends across demographics
+- Visualized sales growth and customer engagement
+
+---
+
+# 🔮 Future Enhancements
+
+- Machine Learning Predictions
+- Customer Churn Analysis
+- Real-Time Dashboard Integration
+- Cloud Deployment
+
+---
+
+# 📸 Dashboard Preview
+
+_Add Power BI dashboard screenshot here._
+
+---
+
+# 👨‍💻 Author
+
+## Pankaj Jadhav
+
+- GitHub: https://github.com/Pankaj24112005
+- LinkedIn: https://linkedin.com/
+
+---
+
+# ⭐ Support
+
+If you found this project useful, give it a ⭐ on GitHub!
